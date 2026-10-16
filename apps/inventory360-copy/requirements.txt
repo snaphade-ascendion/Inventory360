@@ -1,0 +1,10 @@
+streamlit>=1.40.0
+databricks-sdk
+pyyaml
+langgraph
+requests
+pandas
+altair
+openpyxl
+Pillow
+vl-convert-python
